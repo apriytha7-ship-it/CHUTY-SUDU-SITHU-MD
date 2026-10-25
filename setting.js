@@ -15,9 +15,10 @@
 ┇          ⚙️ 𝗦𝗬𝗦𝗧𝗘𝗠 𝗜𝗡𝗙𝗢
 ┇  └─────── ⟡ ───────┘
 ┇   • Runtime  : Node.js
-┇   • Engine   : Ruby-Baileys
+┇   • Engine   : CHUTY-MD
+
 ┇   • Platform : Linux
-┇   • Mode     : WhatsApp Multi Device
+┇   • MoCHUTY updeCHde     : WhatsApp Multi Device
 ┇
 ┇  ──────── ♡ ────────
 ┇          🌷 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦
