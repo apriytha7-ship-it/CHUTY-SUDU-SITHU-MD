@@ -1,22 +1,12 @@
 /**
-╭━━━〔 ୨ৎ RUBBY MULTI DEVICE ୨ৎ 〕━━━╮
-┇
-┇       ✦ 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗥𝗨𝗕𝗕𝗬 ✦
-┇          ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ♡
-┇
-┇      ░▒▓█ 𝗥 𝗨 𝗕 𝗕 𝗬 █▓▒░
-┇          MULTI DEVICE SYSTEM
-┇
-┇  ──────── ୨୧ ────────
-┇        ♡ 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 𝗜𝗡𝗙𝗢 ♡
-┇  ──────── ୨୧ ────────
-┇   ↳ Creator  : Kyuu
-┇   ↳ GitHub   : github.com/KyuuX444
-┇   ↳ YouTube  : MommyKyuu
-┇   ↳ Website  : https://api.kyzzz.xyz
-┇
-┇  ════════ ◇ ════════
-┇        📡 𝗢𝗙𝗙𝗜𝗖𝗜𝗔𝗟 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
+╭━━━〔  ┏━━━━ CHUTY SUDU SITHU MD ━━━━┓
+ ┃  ✦ WELCOME TO CHUTY ✦
+ ┃  C H U T Y MULTI DEVICE
+ ┃  DEVELOPER INFO
+ ┃  Creator : Chuty Sudu Sithu
+ ┃  GitHub  : github.com/apriytha7
+ ┃  OFFICIAL CHANNEL
+ ┗━━━━━━━━━━━━━━━━━━━━━━┛
 ┇  ════════ ◇ ════════
 ┇   ↳ Updates & Announcements
 ┇   ↳ https://whatsapp.com/channel/0029VbDXYlKDJ6H1D7Dm0f13
