@@ -43,7 +43,15 @@
 ╰━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╯
 */
 
-global.botName = 'Rubby Multi Device'
+global.botName = 'CHUTY SUDU SITHU MD'
+global.owner = ['94702490398']
+global.mode = 'public'
+global.noBot = '94702490398'
+global.customPairingCode = 'CHUTYMD1'
+global.botVersion = '1.0.0'
+global.botCreator = 'CHUTY SUDU SITHU'
+global.packname = 'CHUTY SUDU SITHU MD'
+global.author = 'CHUTY SUDU SITHU'
 global.owner = ['628xxxxxxxxxx'] // Ganti dengan nomor WhatsApp owner Anda (contoh: 6281234567890)
 global.mode = 'public' // 'public' atau 'self'
 global.noBot = '628xxxxxxxxxx' // Nomor WhatsApp bot untuk pairing code
